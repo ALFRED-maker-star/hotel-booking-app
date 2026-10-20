@@ -1,0 +1,6 @@
+{
+  "name": "StayEase",
+  "description": "Luxury hotel booking and hospitality management app featuring elegant room discovery, reservation checkout, guest stay management, and hotel administrator dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
